@@ -2,10 +2,10 @@
 Cloud Computing
 
 Week 1 Introduction 12.hrs
-- [ ] Module 1 Overview (5 min)
-- [ ] What is Cloud Computing (5 min)
-- [ ] How Cloud Computing Became a Big Tech Battleground (5 min)
-- [ ] Wrap Up (5 min)
+- [x] Module 1 Overview (5 min)
+- [x] What is Cloud Computing (5 min)
+- [x] How Cloud Computing Became a Big Tech Battleground (5 min)
+- [x] Wrap Up (5 min)
 - [ ] PPT Introduction (30 min)
 - [ ] CCTP Chapter 1 (60 min)
 - [ ] CCTP Chapter 2 (140 min)
