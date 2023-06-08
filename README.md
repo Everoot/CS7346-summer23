@@ -6,14 +6,14 @@ Week 1 Introduction 12.hrs
 - [x] What is Cloud Computing (5 min)
 - [x] How Cloud Computing Became a Big Tech Battleground (5 min)
 - [x] Wrap Up (5 min)
-- [ ] PPT Introduction (30 min)
+- [x] PPT Introduction (30 min)
 - [ ] CCTP Chapter 1 (60 min)
 - [ ] CCTP Chapter 2 (140 min)
-- [ ] AWS CSA Study Guide Chapter 1 (100 min)
-- [ ] Discussion 1 (120 min)
-- [ ] Research and Report (180 min)
-- [ ] Live Session (90 min)
-- [ ] Quiz1 (30 min)
+- [x] AWS CSA Study Guide Chapter 1 (100 min)
+- [x] Discussion 1 (120 min)
+- [x] Research and Report (180 min)
+- [x] Live Session (90 min)
+- [x] Quiz1 (30 min)
 
 
 Week 2 Cloud Data Storage 
