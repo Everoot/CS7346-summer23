@@ -21,12 +21,12 @@ Week 2 Cloud Data Storage
 - [x] [What is Cloud Computing (5 min)]https://youtu.be/mxT233EdY5c
 - [x] [How Amazon Uses Explosive Resistant Devices To Transfer Data to AWS | 14 min](https://youtu.be/H3_ZqnqLyVo)
 - [x] Wrap Up (5 min)
-- [ ] PPT CloudComputing_AWSIAMDemo.pdf (30 min)
+- [x] PPT CloudComputing_AWSIAMDemo.pdf (30 min)
 - [x] PPT CloudStorage.pdf (30 min)
 - [ ] PPT CloudComputing_AWSS3.pdf (30 min)
 - [ ] CCTP Chapter 7 (205 min)
 - [ ] CCTP Chapter 2 (140 min)
-- [ ] AWS CSA Study Guide Chapter 3 (115 min)
+- [x] AWS CSA Study Guide Chapter 3 (115 min)
 - [ ] AWS CSA Study Guide Chapter 5 (115 min)
 - [ ] Discussion 2 (120 min)
 - [ ] AWS Storage and Database Services Lab | 120 min
