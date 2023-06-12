@@ -27,10 +27,10 @@ Week 2 Cloud Data Storage
 - [ ] CCTP Chapter 7 (205 min)
 - [ ] CCTP Chapter 2 (140 min)
 - [x] AWS CSA Study Guide Chapter 3 (115 min)
-- [ ] AWS CSA Study Guide Chapter 5 (115 min)
-- [ ] Discussion 2 (120 min)
-- [ ] AWS Storage and Database Services Lab | 120 min
-- [ ] Live Session (90 min)
+- [x] AWS CSA Study Guide Chapter 5 (115 min)
+- [x] Discussion 2 (120 min)
+- [x] AWS Storage and Database Services Lab | 120 min
+- [x] Live Session (90 min)
 - [ ] Quiz2 (30 min)
 
 Week 3 Cloud Applications | 10 hours
