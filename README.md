@@ -31,7 +31,7 @@ Week 2 Cloud Data Storage
 - [x] Discussion 2 (120 min)
 - [x] AWS Storage and Database Services Lab | 120 min
 - [x] Live Session (90 min)
-- [ ] Quiz2 (30 min)
+- [x] Quiz2 (30 min)
 
 Week 3 Cloud Applications | 10 hours
 - [ ] Module 3 Overview | 5 min
