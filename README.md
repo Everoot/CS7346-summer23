@@ -43,6 +43,7 @@ Week 3 Cloud Applications | 10 hours
 - [ ] Module 3 | AWS Identity and Access Management Lab | 60 min
 - [ ] Module 3 Live Session | 90 min
 - [ ] Module 3 Wrap-up | 5 min
+- [ ] 
 
 Week 4 Cloud Hardware and Software | 12.5 hours
 - [ ] Module 4 Overview | 5 min
