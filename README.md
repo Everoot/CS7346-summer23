@@ -34,16 +34,16 @@ Week 2 Cloud Data Storage
 - [x] Quiz2 (30 min)
 
 Week 3 Cloud Applications | 10 hours
-- [ ] Module 3 Overview | 5 min
+- [x] Module 3 Overview | 5 min
 - [ ] CCTP Chapter 11 | 160 min
-- [ ] AWS CSA Study Guide Chapter 6 | 90 min
+- [x] AWS CSA Study Guide Chapter 6 | 90 min
 - [ ] Module 3 | Discussion | 60 min
 - [ ] Module 3 | Research and Report | 90 min
 - [ ] Quiz 3 | 30 min
-- [ ] Module 3 | AWS Identity and Access Management Lab | 60 min
+- [x] Module 3 | AWS Identity and Access Management Lab | 60 min
 - [ ] Module 3 Live Session | 90 min
-- [ ] Module 3 Wrap-up | 5 min
-- [ ] 
+- [x] Module 3 Wrap-up | 5 min
+ 
 
 Week 4 Cloud Hardware and Software | 12.5 hours
 - [ ] Module 4 Overview | 5 min
