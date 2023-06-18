@@ -37,7 +37,7 @@ Week 3 Cloud Applications | 10 hours
 - [x] Module 3 Overview | 5 min
 - [ ] CCTP Chapter 11 | 160 min
 - [x] AWS CSA Study Guide Chapter 6 | 90 min
-- [ ] Module 3 | Discussion | 60 min
+- [x] Module 3 | Discussion | 60 min
 - [ ] Module 3 | Research and Report | 90 min
 - [ ] Quiz 3 | 30 min
 - [x] Module 3 | AWS Identity and Access Management Lab | 60 min
