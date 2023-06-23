@@ -46,7 +46,7 @@ Week 3 Cloud Applications | 10 hours
  
 
 Week 4 Cloud Hardware and Software | 12.5 hours
-- [ ] Module 4 Overview | 5 min
+- [x] Module 4 Overview | 5 min
 - [ ] CCTP Chapter 4 | 190 min
 - [ ] AWS CSA Study Guide Chapter 2 | 120 min
 - [ ] Module 4 | Research and Report | 120 min
