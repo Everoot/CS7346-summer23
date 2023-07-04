@@ -50,8 +50,8 @@ Week 4 Cloud Hardware and Software | 12.5 hours
 - [ ] CCTP Chapter 4 | 190 min
 - [ ] AWS CSA Study Guide Chapter 2 | 120 min
 - [ ] Module 4 | Research and Report | 120 min
-- [ ] Quiz 4 | 30 min
-- [ ] Module 4 | AWS EC2 Lab | 120 min
+- [x] Quiz 4 | 30 min
+- [x] Module 4 | AWS EC2 Lab | 120 min
 - [ ] Module 4 Live Session | 90 min
 - [ ] CloudHardwareAndSoftware.pdf
 - [ ] Module 4 Wrap-up | 5 min
@@ -69,3 +69,10 @@ Week 5 | Cloud Resource Management and Scheduling | 13.5 hours
 - [ ] Module 5 Live Session | 90 min
 - [ ] CloudResourceManagement.pdf
 - [ ] Module 5 Wrap-up | 5 min
+
+Week 6
+
+Week 7
+
+Week 8
+
