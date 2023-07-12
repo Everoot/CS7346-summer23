@@ -77,7 +77,7 @@ Week 6
 - [x] Module 6 | Discussion | 60 min
 - [ ] Module 6 | Research and Report | 90 min
 - [x] Quiz 6 | 30 min
-- [ ] Module 6 | AWS CloudTrail, CloudWatch, and Config Lab | 180 min
+- [x] Module 6 | AWS CloudTrail, CloudWatch, and Config Lab | 180 min
 - [ ] Module 6 Live Session | 90 min
 - [ ] Live Session 6 Video
 - [ ] CloudResourceVirtualization.pdf
@@ -89,10 +89,10 @@ Week 7
 - [ ] CCTP Chapter 8 | 190 min
 - [ ] Google Data Center Security: 6 Layers Deep | 7 min
 - [ ] AWS CSA Study Guide Chapter 8 | 120 min
-- [ ] Module 7 | Discussion | 60 min
-- [ ] Module 7 | Research and Report | 90 min
-- [ ] Module 7 | Amazon Route 53 and CloudFront Lab | 180 min
-- [ ] Quiz 7 | 30 min
+- [x] Module 7 | Discussion | 60 min
+- [x] Module 7 | Research and Report | 90 min
+- [x] Module 7 | Amazon Route 53 and CloudFront Lab | 180 min
+- [x] Quiz 7 | 30 min
 - [ ] Architectural Katas Discussion Phase | 450 min per week Jul 19
 - [ ] Module 7 Live Session | 90 min
 - [ ] CloudSecurity.pdf
