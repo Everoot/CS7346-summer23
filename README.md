@@ -75,7 +75,7 @@ Week 6
 - [ ] CCTP Chapter 5 | 190 min
 - [ ] AWS CSA Study Guide Chapter 7 | 90 min
 - [x] Module 6 | Discussion | 60 min
-- [ ] Module 6 | Research and Report | 90 min
+- [x] Module 6 | Research and Report | 90 min
 - [x] Quiz 6 | 30 min
 - [x] Module 6 | AWS CloudTrail, CloudWatch, and Config Lab | 180 min
 - [ ] Module 6 Live Session | 90 min
