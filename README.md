@@ -85,7 +85,7 @@ Week 6
 - [ ] Module 6 Wrap-up | 5 min
 
 Week 7
-- [ ] Module 7 Overview | 5 min
+- [x] Module 7 Overview | 5 min
 - [ ] CCTP Chapter 8 | 190 min
 - [ ] Google Data Center Security: 6 Layers Deep | 7 min
 - [ ] AWS CSA Study Guide Chapter 8 | 120 min
