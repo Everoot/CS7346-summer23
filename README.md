@@ -38,70 +38,70 @@ Week 3 Cloud Applications | 10 hours
 - [ ] CCTP Chapter 11 | 160 min
 - [x] AWS CSA Study Guide Chapter 6 | 90 min
 - [x] Module 3 | Discussion | 60 min
-- [ ] Module 3 | Research and Report | 90 min
-- [ ] Quiz 3 | 30 min
+- [x] Module 3 | Research and Report | 90 min
+- [x] Quiz 3 | 30 min
 - [x] Module 3 | AWS Identity and Access Management Lab | 60 min
-- [ ] Module 3 Live Session | 90 min
+- [x] Module 3 Live Session | 90 min
 - [x] Module 3 Wrap-up | 5 min
  
 
 Week 4 Cloud Hardware and Software | 12.5 hours
 - [x] Module 4 Overview | 5 min
 - [ ] CCTP Chapter 4 | 190 min
-- [ ] AWS CSA Study Guide Chapter 2 | 120 min
-- [ ] Module 4 | Research and Report | 120 min
+- [x] AWS CSA Study Guide Chapter 2 | 120 min
+- [x] Module 4 | Research and Report | 120 min
 - [x] Quiz 4 | 30 min
 - [x] Module 4 | AWS EC2 Lab | 120 min
-- [ ] Module 4 Live Session | 90 min
+- [x] Module 4 Live Session | 90 min
 - [ ] CloudHardwareAndSoftware.pdf
-- [ ] Module 4 Wrap-up | 5 min
+- [x] Module 4 Wrap-up | 5 min
 
 
 Week 5 | Cloud Resource Management and Scheduling | 13.5 hours
 - [x] Module 5 Overview | 5 min
 - [ ] CCTP Chapter 9 | 205 min
-- [ ] AWS CSA Study Guide Chapter 4 | 120 min
+- [x] AWS CSA Study Guide Chapter 4 | 120 min
 - [x] Module 5 | Discussion | 60 min
 - [x] Module 5 | Research and Report | 120 min
 - [x] Quiz 5 | 30 min
 - [x] Module 5 | AWS VPC Lab | 180 min
-- [ ] Live Session | 90 min
-- [ ] Module 5 Live Session | 90 min
+- [x] Live Session | 90 min
+- [x] Module 5 Live Session | 90 min
 - [ ] CloudResourceManagement.pdf
-- [ ] Module 5 Wrap-up | 5 min
+- [x] Module 5 Wrap-up | 5 min
 
 Week 6
 - [x] Module 6 Overview | 5 min
 - [ ] CCTP Chapter 5 | 190 min
-- [ ] AWS CSA Study Guide Chapter 7 | 90 min
+- [x] AWS CSA Study Guide Chapter 7 | 90 min
 - [x] Module 6 | Discussion | 60 min
 - [x] Module 6 | Research and Report | 90 min
 - [x] Quiz 6 | 30 min
 - [x] Module 6 | AWS CloudTrail, CloudWatch, and Config Lab | 180 min
-- [ ] Module 6 Live Session | 90 min
-- [ ] Live Session 6 Video
+- [x] Module 6 Live Session | 90 min
+- [x] Live Session 6 Video
 - [ ] CloudResourceVirtualization.pdf
 - [ ] CloudComputing_CloudFront.pdf
-- [ ] Module 6 Wrap-up | 5 min
+- [x] Module 6 Wrap-up | 5 min
 
 Week 7
 - [x] Module 7 Overview | 5 min
 - [ ] CCTP Chapter 8 | 190 min
 - [ ] Google Data Center Security: 6 Layers Deep | 7 min
-- [ ] AWS CSA Study Guide Chapter 8 | 120 min
+- [x] AWS CSA Study Guide Chapter 8 | 120 min
 - [x] Module 7 | Discussion | 60 min
 - [x] Module 7 | Research and Report | 90 min
 - [x] Module 7 | Amazon Route 53 and CloudFront Lab | 180 min
 - [x] Quiz 7 | 30 min
-- [ ] Architectural Katas Discussion Phase | 450 min per week Jul 19
-- [ ] Module 7 Live Session | 90 min
+- [x] Architectural Katas Discussion Phase | 450 min per week Jul 19
+- [x] Module 7 Live Session | 90 min
 - [ ] CloudSecurity.pdf
-- [ ] Module 7 Wrap-up | 5 min
+- [x] Module 7 Wrap-up | 5 min
 
 Week 8
-- [ ] Module 8 Overview | 2 min
-- [ ] Architectural Katas Discussion Phase | 450 min per week
-- [ ] Architectural Katas Presentation Phase | 300 min
-- [ ] Architectural Katas Peer Reviews | 240 min
-- [ ] Module 8 Live Sessions (Weeks 8 and 9) | 180 min
+- [x] Module 8 Overview | 2 min
+- [x] Architectural Katas Discussion Phase | 450 min per week
+- [x] Architectural Katas Presentation Phase | 300 min
+- [x] Architectural Katas Peer Reviews | 240 min
+- [x] Module 8 Live Sessions (Weeks 8 and 9) | 180 min
 
